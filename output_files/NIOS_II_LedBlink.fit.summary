@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Nov 06 23:12:04 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : NIOS_II_LedBlink
+Top-level Entity Name : NIOS_II_LedBlink
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 1,339 / 6,272 ( 21 % )
+    Total combinational functions : 1,255 / 6,272 ( 20 % )
+    Dedicated logic registers : 730 / 6,272 ( 12 % )
+Total registers : 730
+Total pins : 10 / 92 ( 11 % )
+Total virtual pins : 0
+Total memory bits : 43,008 / 276,480 ( 16 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

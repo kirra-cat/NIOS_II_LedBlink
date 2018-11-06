@@ -1,0 +1,6 @@
+13:39:30 **** Clean-only build of configuration Nios II for project NIOS_II_LedBlink_Firmware_bsp ****
+make clean 
+[BSP clean complete]
+
+13:39:30 Build Finished (took 696ms)
+
